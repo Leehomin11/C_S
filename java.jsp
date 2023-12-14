@@ -30,11 +30,11 @@
     </p>
     <p>
       <b>total memory:</b> <%= Runtime.getRuntime().totalMemory() / (1024 * 1024)
-      %> MB
+      %> 
     </p>
     <p>
       <b>available memory:</b> <%= Runtime.getRuntime().freeMemory() / (1024 *
-      1024) %> MB
+      1024) %> 
     </p>
     </div>
     <script src="index.js"></script>
