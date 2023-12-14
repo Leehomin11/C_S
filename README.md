@@ -13,3 +13,7 @@ CPU status is loaded once every 10 seconds.
 ### What can be confirmed
 CPU usage, Operating System, Java version
 processor architecture, total memory, available memory
+
+
+### design : PyCharm
+
