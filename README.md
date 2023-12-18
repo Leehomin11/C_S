@@ -15,5 +15,5 @@ CPU usage, Operating System, Java version
 processor architecture, total memory, available memory
 
 
-### design : PyCharm
+### inspired by design: PyCharm
 
